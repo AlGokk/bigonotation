@@ -47,7 +47,7 @@ table {
 }
 
 .array_sorting_table {
-  padding: 5px 0px 10em 0px;
+  padding: 5px 0px 5em 0px;
 }
 
 table code {
@@ -315,4 +315,11 @@ span.mute {
 
 #page.pdf a {
   text-decoration: none;
+}
+
+.footer {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 25px;
 }
